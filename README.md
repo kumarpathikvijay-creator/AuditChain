@@ -63,3 +63,42 @@ Structured Transaction Data
 Polygon Amoy Blockchain
           ↓
 Blockchain Verification
+---
+
+# Project Screenshots
+
+## AI Invoice Scanner
+
+![AI Invoice Scanner](screenshots/01-invoice-scanner.png)
+
+## Make.com Automation
+
+![Make Automation](screenshots/02-make-automation-workflow.png)
+
+## Gemini AI Processing
+
+![Gemini AI Processing](screenshots/03-gemini-ai-invoice-processing.png)
+
+## Risk Analysis & Duplicate Detection
+
+![Risk Analysis](screenshots/05-risk-analysis-and-duplicate-detection.png)
+
+## Google Sheets Transaction Ledger
+
+![Transaction Ledger](screenshots/06-google-sheets-transaction-ledger.png)
+
+## AuditChain Dashboard
+
+![AuditChain Dashboard](screenshots/13-auditchain-dashboard.png)
+
+## Smart Contract
+
+![Remix Smart Contract](screenshots/07-remix-smart-contract.png)
+
+## Blockchain Verification
+
+![Polygon Amoy Transaction](screenshots/09-polygon-amoy-transaction.png)
+
+## Thirdweb Integration
+
+![Thirdweb Integration](screenshots/11-thirdweb-blockchain-integration.png)
