@@ -96,6 +96,15 @@ Blockchain Verification
 ![Remix Smart Contract](screenshots/07-remix-smart-contract.png)
 
 ## Blockchain Verification
+---
+
+## 📄 Detailed Project Documentation
+
+A complete project document covering the problem statement, objectives, workflow, AI processing, automation, risk analysis, duplicate detection, dashboard, smart contract, blockchain testing, limitations, and future scope is available here:
+
+📂 [View the Detailed AuditChain Project Documentation](docs/AuditChain_Detailed_Project_File.docx)
+
+---
 
 ![Polygon Amoy Transaction](screenshots/09-polygon-amoy-transaction.png)
 
